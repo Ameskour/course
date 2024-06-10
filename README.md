@@ -92,4 +92,4 @@
   - Installation and configuration of virtualization platforms (ESXi, vSphere, KVM).
   - Setting up IaaS cloud environments.
   - Implementing security measures in cloud solutions.
-# course
+
